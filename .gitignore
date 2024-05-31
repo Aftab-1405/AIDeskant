@@ -1,0 +1,8 @@
+# Ignore the GPTModule.py file
+GPTModule.py
+
+# Ignore all .db files
+*.db
+
+# Ignore __pycache__ directories
+__pycache__/
